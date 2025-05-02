@@ -13,7 +13,7 @@ I am a passionate **Sustainability Data Analyst** with expertise in **GHG (Green
 In this project, I mapped the **SICS industry** with **GICS**, **ISIC**, and **D&B** classifications to create a comprehensive cross-reference for industry analysis. This helps in aligning multiple global classification systems and facilitating data-driven decision-making.
 
 - **Technologies Used**: Excel
-- **Repository Link**: [SICS Industry Mapping Project](#)
+- **Repository Link**: https://github.com/Naveed-baig786/portfolio/blob/7647702c7bc22972ecf1ef7097c1e85e9245b4f3/232%20Industrial%20Classification%20Excel.xlsx
 
 ## Contact
 Feel free to connect with me via:
